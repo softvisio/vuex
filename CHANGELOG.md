@@ -1,3 +1,8 @@
+## 0.1.0 (2020-12-12)
+
+-   readme updated
+-   init
+
 ## 0.35.0 (2020-12-12)
 
 -   vuex store refactored
