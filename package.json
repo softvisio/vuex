@@ -23,9 +23,11 @@
     "scripts": {
         "lint": "softvisio-cli lint"
     },
-    "peerDependencies": {
-        "vue": ">=2.6.12",
+    "dependencies": {
         "vuex": ">=3.6.0"
+    },
+    "peerDependencies": {
+        "vue": ">=2.6.12"
     },
     "lint": [
         "*.*",
