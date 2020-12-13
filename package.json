@@ -20,6 +20,7 @@
     "exports": {
         ".": "./lib/index.js"
     },
+    "main": "./lib/index.js",
     "scripts": {
         "lint": "softvisio-cli lint"
     },
