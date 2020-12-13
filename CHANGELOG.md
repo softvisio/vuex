@@ -1,3 +1,7 @@
+## 0.1.3 (2020-12-13)
+
+-   main entry potin added
+
 ## 0.1.2 (2020-12-12)
 
 -   deps updated
