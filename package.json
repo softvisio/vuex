@@ -1,6 +1,6 @@
 {
     "name": "@softvisio/vuex",
-    "version": "0.3.3",
+    "version": "1.0.0",
     "description": "Softisio Vuex wrapper",
     "keywords": [
         "softvisio",
