@@ -1,3 +1,9 @@
+## 2.0.0 (2021-02-10)
+
+### Raw commits log
+
+-   migrated to vuex v4;
+
 ## 2.0.0-alpha.0 (2021-02-10)
 
 ### Raw commits log
