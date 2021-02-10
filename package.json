@@ -25,7 +25,7 @@
         "lint": "softvisio-cli lint"
     },
     "dependencies": {
-        "vuex": "^3.6.2"
+        "vuex": "^4.0.0"
     },
     "lint": [
         "*.*",
