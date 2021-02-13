@@ -1,3 +1,9 @@
+## 2.1.2 (2021-02-13)
+
+### Raw commits log
+
+-   vuex store init process refactored;
+
 ## 2.1.1 (2021-02-13)
 
 ### Raw commits log
