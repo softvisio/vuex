@@ -1,3 +1,9 @@
+## 2.1.3 (2021-02-13)
+
+### Raw commits log
+
+-   throw error on secont init call;
+
 ## 2.1.2 (2021-02-13)
 
 ### Raw commits log
