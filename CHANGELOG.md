@@ -1,3 +1,9 @@
+## 2.1.0 (2021-02-13)
+
+### Raw commits log
+
+-   vue3 plugin;
+
 ## 2.0.0 (2021-02-10)
 
 ### Raw commits log
