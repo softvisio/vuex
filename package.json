@@ -17,6 +17,7 @@
         "url": "https://bitbucket.org/softvisio/softvisio-vuex.git"
     },
     "author": "zdm <zdm@softvisio.net>",
+    "type": "module",
     "exports": {
         ".": "./lib/index.js"
     },
