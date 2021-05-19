@@ -21,9 +21,6 @@
     "exports": {
         ".": "./lib/index.js"
     },
-    "scripts": {
-        "lint": "softvisio-cli lint"
-    },
     "dependencies": {
         "vuex": "^4.0.0"
     },
