@@ -1,24 +1,24 @@
 ## 3.1.2 (2021-06-03)
 
-### Raw commits log
+**Raw commits log**
 
 -   moved to github;
 
 ## 3.1.1 (2021-06-01)
 
-### Raw commits log
+**Raw commits log**
 
 -   lint config removed;
 
 ## 3.1.0 (2021-05-22)
 
-### Raw commits log
+**Raw commits log**
 
 -   init $api, $token, $events options before create object;
 
 ## 3.0.1 (2021-05-19)
 
-### Raw commits log
+**Raw commits log**
 
 -   lint script removed;
 
@@ -26,49 +26,49 @@
 
 ## 3.0.0-alpha.0 (2021-04-28)
 
-### Raw commits log
+**Raw commits log**
 
 -   ported to webpack 5;
 
 ## 2.1.4 (2021-04-16)
 
-### Raw commits log
+**Raw commits log**
 
 -   ported to modules;
 
 ## 2.1.3 (2021-02-13)
 
-### Raw commits log
+**Raw commits log**
 
 -   throw error on secont init call;
 
 ## 2.1.2 (2021-02-13)
 
-### Raw commits log
+**Raw commits log**
 
 -   vuex store init process refactored;
 
 ## 2.1.1 (2021-02-13)
 
-### Raw commits log
+**Raw commits log**
 
 -   $global renamed to $events;
 
 ## 2.1.0 (2021-02-13)
 
-### Raw commits log
+**Raw commits log**
 
 -   vue3 plugin;
 
 ## 2.0.0 (2021-02-10)
 
-### Raw commits log
+**Raw commits log**
 
 -   migrated to vuex v4;
 
 ## 2.0.0-alpha.0 (2021-02-10)
 
-### Raw commits log
+**Raw commits log**
 
 -   migrated to vuex v4;
 
