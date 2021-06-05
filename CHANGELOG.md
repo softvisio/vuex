@@ -1,3 +1,10 @@
+## 3.1.3 (2021-06-05)
+
+**Raw commits log**
+
+-   docs added;
+-   changelog updated;
+
 ## 3.1.2 (2021-06-03)
 
 **Raw commits log**

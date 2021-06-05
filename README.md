@@ -1,4 +1,6 @@
-**Please, see full project documentation here:** [https://softvisio.github.io/vuex/](https://softvisio.github.io/vuex/)
+> :information_source: Please, see the full project documentation here: [**https://softvisio.github.io/vuex/**](https://softvisio.github.io/vuex/).
+
+> :warning: Do not edit. This file is generated automatocally by `@softvisio/cli`.
 
 # ES6 classes support for vuex.
 
