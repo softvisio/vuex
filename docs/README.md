@@ -39,7 +39,7 @@ class MainStore extends Store {
 Vue.prototype.$store = Store.buildStore( MainStore );
 ```
 
--   All enumarated properties become reactive `vuex` state properties.
+-   All enumerated properties become reactive `vuex` state properties.
 -   All `get` accessors become `vuex` getters, return values are cached by vuex (refer to vuex getters documentation).
 -   All methods become `vuex` actions.
 
