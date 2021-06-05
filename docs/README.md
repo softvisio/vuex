@@ -1,5 +1,3 @@
-**Please, see full project documentation here:** [https://softvisio.github.io/vuex/](https://softvisio.github.io/vuex/)
-
 # ES6 classes support for vuex.
 
 # INSTALL
