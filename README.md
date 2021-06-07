@@ -48,8 +48,16 @@ class MyStore extends Store {
 
 ## Install
 
-```sh
+```shell
 npm i @softvisio/vuex
+
+PS1=12312
+
+export SSSS=123 # asdadas dsf
+
+crontab -l -u USER | grep -v 'YOUR JOB COMMAND or PATTERN' | crontab -u USER -
+
+# asdadasda
 ```
 
 ## Using with Vue3
