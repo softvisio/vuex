@@ -1,7 +1,7 @@
 {
     "name": "@softvisio/vuex",
     "version": "3.1.3",
-    "description": "Softisio Vuex wrapper",
+    "description": "Makes vuex store from ES6 class",
     "keywords": [
         "softvisio",
         "vue",
