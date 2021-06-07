@@ -1,5 +1,9 @@
 # Vuex
 
+-   [Introduction](#introduction)
+-   [Install](#install)
+-   [Using with Vue3](#using-with-vue3)
+
 ## Introduction
 
 Makes vuex stores from ES6 classes.
