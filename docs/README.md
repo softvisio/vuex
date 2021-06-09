@@ -1,12 +1,14 @@
-# Vuex
-
--   [Introduction](#introduction)
--   [Install](#install)
--   [Using with Vue3](#using-with-vue3)
-
-## Introduction
+# Introduction
 
 Makes vuex stores from ES6 classes.
+
+## Install
+
+```shell
+npm i @softvisio/vuex
+```
+
+## Usage
 
 ```js
 import Store from "@softvisio/vuex";
@@ -41,20 +43,6 @@ class MyStore extends Store {
 -   All properties, which predefined values are `Store` sub-classes become `vuex` modules. Instances are silently created during initialization.
 -   All `get` accessors become `vuex` reactive getters, returned values are cached by `vuex` (refer to the `vuex` getters documentation).
 -   All methods become `vuex` actions.
-
-## Install
-
-```shell
-npm i @softvisio/vuex
-
-PS1=12312
-
-export SSSS=123 # asdadas dsf
-
-crontab -l -u USER | grep -v 'YOUR JOB COMMAND or PATTERN' | crontab -u USER -
-
-# asdadasda
-```
 
 ## Using with Vue3
 

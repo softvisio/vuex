@@ -1,5 +1,5 @@
--   [Vuex](/)
+-   [Introduction](/)
 
 **LINKS**
 
--   [Change log](/changelog)
+-   [Changelog](/changelog)
