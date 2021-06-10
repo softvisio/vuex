@@ -50,7 +50,7 @@ class MyStore extends Store {
 
 ## Using with Vue3
 
-Store class behaves as `vue3` plugin. Install store to your `vue3` application:
+Store class has `vue3` plugin interface. Install store to your `vue3` application:
 
 ```js
 import MyStore from "@stores/my-store.js";
