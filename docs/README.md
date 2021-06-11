@@ -10,7 +10,7 @@ npm i @softvisio/vuex
 
 ## Usage
 
-```js
+```javascript
 import Store from "@softvisio/vuex";
 
 // module
@@ -48,7 +48,7 @@ class MyStore extends Store {
 
 Store class has `vue3` plugin interface. Install store to your `vue3` application:
 
-```js
+```javascript
 import MyStore from "@stores/my-store.js";
 
 app.use(MyStore);
@@ -57,7 +57,7 @@ app.use(MyStore);
 It registers as `vue3` `$store` global property. You can get access from `vue3` components:
 
 <!-- prettier-ignore -->
-```js
+```javascript
 this.$store.prop1;                 // accees reactive state property
 this.$store.prop1 = 1;             // commit state property
 this.$store.prop2;                 // accees reactive getter
