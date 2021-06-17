@@ -1,5 +1,12 @@
 # Changelog
 
+### 4.0.0 (2021-06-17)
+
+Changed:
+
+-   vue install $events replaced with $app;
+-   docs updated;
+
 ### 3.1.3 (2021-06-05)
 
 Changed:
