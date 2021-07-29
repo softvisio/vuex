@@ -1,5 +1,11 @@
 # Changelog
 
+### 4.1.0 (2021-07-29)
+
+Added:
+
+-   $subscribe method added
+
 ### 4.0.3 (2021-07-04)
 
 Changed:
