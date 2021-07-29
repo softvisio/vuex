@@ -44,6 +44,15 @@ class MyStore extends Store {
 -   All `get` accessors become `vuex` reactive getters, returned values are cached by `vuex` (refer to the `vuex` getters documentation).
 -   All methods become `vuex` actions.
 
+### store.$subscribe( callbasck, options? )
+
+-   `callback` <Function\> Called on store state modified:
+    -   `mutation` <Object\>
+    -   `state` <Object\>
+-   `options` <Object\>:
+    -   `prepend` <boolean\>
+-   Returns: <Function\> Unsubscribe callback.
+
 ## Using with Vue3
 
 Store class has `vue3` plugin interface. Install store to your `vue3` application:
