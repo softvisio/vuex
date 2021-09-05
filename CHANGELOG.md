@@ -1,5 +1,11 @@
 # Changelog
 
+### 4.1.1 (2021-09-05)
+
+Fixes:
+
+-   fix: do not copy app global props
+
 ### 4.1.0 (2021-07-29)
 
 Added:
