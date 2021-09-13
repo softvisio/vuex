@@ -57,6 +57,22 @@ class MyStore extends Store {
     -   `prepend` <boolean\>
 -   Returns: <Function\> Unsubscribe callback.
 
+### store.$watch( fn, callbasck, options? )
+
+-   `fn` <Function\> Function to watch:
+    -   `state`
+    -   `getters`
+-   `callback` <Function\> Called, when `fn` return value will be changed:
+    -   `new` <any\> New value.
+    -   `old` <any\> Old value.
+    -   `unwatch` <Function\> Unwatch callback.
+-   `options` <Object\>:
+    -   `deep` <boolean\> To also detect nested value changes inside Objects, you need to pass in deep: true in the options argument. Note that you don’t need to do so to listen for Array mutations.
+    -   `immediate` <boolean\> Passing in immediate: true in the option will trigger the callback immediately with the current value of the expression.
+-   Returns: <Function\> Unwatch callback.
+
+Reactively watch fn's return value, and call the callback when the value changes
+
 ## Using with Vue3
 
 Store class has `vue3` plugin interface. Install store to your `vue3` application:
