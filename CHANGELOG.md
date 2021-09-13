@@ -1,5 +1,9 @@
 # Changelog
 
+### 4.2.1 (2021-09-13)
+
+No notable changes since the previous release.
+
 ### 4.2.0 (2021-09-13)
 
 Features:
