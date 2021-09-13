@@ -63,8 +63,8 @@ class MyStore extends Store {
     -   `state`
     -   `getters`
 -   `callback` <Function\> Called, when `fn` return value will be changed:
-    -   `new` <any\> New value.
-    -   `old` <any\> Old value.
+    -   `newValue` <any\> New value.
+    -   `oldValue` <any\> Old value.
     -   `unwatch` <Function\> Unwatch callback.
 -   `options` <Object\>:
     -   `deep` <boolean\> To also detect nested value changes inside Objects, you need to pass in deep: true in the options argument. Note that you don’t need to do so to listen for Array mutations.
