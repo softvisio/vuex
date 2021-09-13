@@ -1,5 +1,11 @@
 # Changelog
 
+### 4.2.0 (2021-09-13)
+
+Features:
+
+-   feat: $watch method
+
 ### 4.1.1 (2021-09-05)
 
 Fixes:
