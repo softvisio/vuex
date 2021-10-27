@@ -1,5 +1,11 @@
 # Changelog
 
+### 4.2.5 (2021-10-27)
+
+Fixes:
+
+-   fix: class name fixed
+
 ### 4.2.4 (2021-10-27)
 
 Fixes:
