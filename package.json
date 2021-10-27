@@ -1,6 +1,6 @@
 {
     "name": "@softvisio/vuex",
-    "version": "4.2.3",
+    "version": "4.2.4",
     "description": "Makes vuex store from ES6 class",
     "keywords": [
         "softvisio",

@@ -1,5 +1,11 @@
 # Changelog
 
+### 4.2.4 (2021-10-27)
+
+Fixes:
+
+-   fix: install method removed
+
 ### 4.2.3 (2021-09-17)
 
 Fixes:
