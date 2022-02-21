@@ -10,12 +10,13 @@
     "homepage": "https://softvisio.github.io/vuex/",
     "bugs": {
         "url": "https://github.com/softvisio/vuex/issues",
-        "email": "zdm@softvisio.net"
+        "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/softvisio/vuex.git"
     },
+    "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
     "type": "module",
     "exports": {
